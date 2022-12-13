@@ -1,0 +1,8 @@
+Dersde elediklerimiz: https://dotnetfiddle.net/p3MLVh
+
+Ev tasklari
+1. https://dotnetfiddle.net/IBFiqP 2 ededin cemini tapan metod
+2. https://dotnetfiddle.net/RoSg8D Ededin kvadratini tapan metod
+3.https://dotnetfiddle.net/GyNy5L Yazida string var mi ya yox
+4. https://dotnetfiddle.net/0ASu48 Ededin reqemleri cemini rapan metod
+5. https://dotnetfiddle.net/CpNsO4 4 Ededin ededi ortasini qaytaran metod
